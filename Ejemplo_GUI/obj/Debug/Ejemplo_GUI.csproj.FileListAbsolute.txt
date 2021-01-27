@@ -1,0 +1,15 @@
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\Ejemplo_GUI.exe.config
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\Ejemplo_GUI.exe
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\Ejemplo_GUI.pdb
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\websocket-sharp.dll
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\bin\Debug\websocket-sharp.xml
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.csprojAssemblyReference.cache
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.Form1.resources
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.Properties.Resources.resources
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.csproj.GenerateResource.cache
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.csproj.CoreCompileInputs.cache
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.csproj.CopyComplete
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.exe
+C:\Users\josba\Documents\Fly CUCEI\C#\Ejemplo_GUI\obj\Debug\Ejemplo_GUI.pdb
