@@ -1,0 +1,2 @@
+# WebSocket-ESP32-GUI-Example
+This is a basic example of the connection of ESP3 with a simple graphic user interface (GUI) developed trought C# .Net in order to controll a led brightness with a trackbar (slider) and receive lectures of voltage measurements from an ADC port from the ESP32.  The comunication archiqutecture is based on WebSocket protocol due its properties of multiple requests at the same time. The data is sent/received trought a string variable with JSON format to ease the procedure. The ESP32 was programmed with the Arduino IDE.
